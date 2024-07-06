@@ -32,7 +32,6 @@ const Homeproduct = () => {
           style={{objectFit:'scale-down'}}
           sx={{ height: 140 }}
           image={item.image}
-          title="green iguana"
         />
         <CardContent>
         <Typography variant="body1" color="text.secondary">
